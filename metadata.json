@@ -1,0 +1,6 @@
+{
+  "name": "AI Skill Architect",
+  "description": "Profession-agnostic AI skill diagnostic, transparent pathway recommendation engine, and personalized module library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
